@@ -1,0 +1,5 @@
+com\training\CorsFilter.class
+com\training\LoginServlet.class
+com\training\DBUtil.class
+com\training\RegisterServlet.class
+com\training\DBTest.class
